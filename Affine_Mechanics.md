@@ -2,6 +2,8 @@
 
 [YOUTUBE VIDEO LINK](https://www.youtube.com/watch?v=3_jbaHW_Ezw&ab_channel=RitikaxRayPixy)
 
+[MORE ON ENCRYPTION HERE](https://en.wikipedia.org/wiki/Affine_cipher)
+
 ## Formulas
 
 Encryption
